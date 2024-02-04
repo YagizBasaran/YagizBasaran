@@ -4,7 +4,7 @@ Hi my name is *Yağız Başaran*.
 
 @ Bilkent University-Computer Science. 
 
-Java, C++, Python, Verilog, Unity.
+C++, React, Java, Python, Assembly, Unity.
 
 You can contact me from this e-mail adress: 1903yagizbasaran@gmail.com
 
