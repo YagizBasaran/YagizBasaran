@@ -2,7 +2,7 @@
 
 Hi my name is *Yağız Başaran*.
 
-@ Bilkent University-Computer Science. 
+@ Bilkent University-Junior Computer Science. 
 
 C++, React, Java, Python, Assembly, Unity.
 
