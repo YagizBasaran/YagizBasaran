@@ -2,9 +2,9 @@
 
 Hi my name is *Yağız Başaran*.
 
-@ Bilkent University-Junior Computer Science. 
+@ Bilkent University-Senior Computer Science. 
 
-C++, React, Java, Python, Assembly, Unity.
+C++, OpenCV, Java, Spring, JS, Python, Flask, robotics, Assembly, Vue, React.
 
 You can contact me from this e-mail adress: 1903yagizbasaran@gmail.com
 
