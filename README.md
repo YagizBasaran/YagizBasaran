@@ -6,7 +6,7 @@ Hi my name is *Yağız Başaran*.
 
 C++, OpenCV, Java, Spring, JS, Python, Flask, robotics, Assembly, Vue, React.
 
-You can contact me from this e-mail adress: 1903yagizbasaran@gmail.com
+You can contact me from this e-mail adress: yagizbasaran@hotmail.com
 
 <!---
 YagizBasaran/YagizBasaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
